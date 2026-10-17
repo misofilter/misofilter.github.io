@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- MisoEQ favicon: simplified app icon. Sonic Blue frame, white pickguard, three black faders, red accent. -->
+  <defs>
+    <linearGradient id="frame" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#B3D4E0"/>
+      <stop offset="1" stop-color="#8CB5C9"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="62" height="62" rx="15" fill="url(#frame)" stroke="#000" stroke-opacity=".3" stroke-width="1.5"/>
+  <rect x="9" y="9" width="46" height="46" rx="5" fill="#F7F7F7" stroke="#000" stroke-width="2.5"/>
+  <g stroke="#000" stroke-width="3.5" stroke-linecap="round">
+    <line x1="21" y1="16" x2="21" y2="48"/>
+    <line x1="32" y1="16" x2="32" y2="48"/>
+    <line x1="43" y1="16" x2="43" y2="48"/>
+  </g>
+  <rect x="15" y="22" width="12" height="7" rx="2" fill="#111"/>
+  <rect x="26" y="36" width="12" height="7" rx="2" fill="#111"/>
+  <rect x="37" y="19" width="12" height="7" rx="2" fill="#D72B26"/>
+</svg>
