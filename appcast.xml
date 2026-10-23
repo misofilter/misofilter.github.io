@@ -4,5 +4,14 @@
     <title>MisoEQ</title>
     <link>https://misofilter.github.io/appcast.xml</link>
     <language>en</language>
+    <item>
+      <title>MisoEQ 1.0 (build 8)</title>
+      <pubDate>Fri, 23 Oct 2026 19:59:02 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/misofilter/misofilter.github.io/releases/tag/v1.0-8</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/misofilter/misofilter.github.io/releases/download/v1.0-8/MisoEQ-1.0-8.dmg" sparkle:edSignature="fPZV7+WyWO9f+S9ylYeA7bAxxoxTiKBfgV0e8C6IuhMtMPzQrT93FlILwH9cx2zR9Y9SsTqYy4hpwEKs5yd8DA==" length="31863054" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
